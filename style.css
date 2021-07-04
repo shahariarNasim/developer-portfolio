@@ -63,3 +63,8 @@ h1{
 footer p{
     text-align: center;
 }
+.hr-design{
+    border: none;
+    height: 1px;
+    background-image: linear-gradient(to left, cyan, gray );
+}
